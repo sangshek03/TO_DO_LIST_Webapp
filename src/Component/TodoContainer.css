@@ -1,0 +1,17 @@
+.heading{
+    background-color: rgba(252, 82, 73, 0.977);
+    color:  #000000;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.list_container{  
+  margin: auto;
+  width: 78%;
+  max-width: 700px;
+  border-radius: 20px;
+  background-color: #fff0b5;
+  color: #000000;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+}
