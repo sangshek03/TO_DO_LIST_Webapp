@@ -1,6 +1,9 @@
 TODO List Web App with React
 
-This is a simple web application built with React that allows users to create and manage their to-do lists. It provides functionality to add, and delete tasks. This project is for learning purpose.
+This is a simple web application built with React that allows users to create and manage their to-do lists. It provides functionality to add, and delete tasks. This project is for learning purposes.
+
+![image](https://github.com/sangshek03/todo/assets/110192004/e2ca1808-e660-4853-a5d7-cf2e9ddf3529)
+
 
 Features
 
